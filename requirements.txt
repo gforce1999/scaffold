@@ -1,0 +1,7 @@
+# requirements files:  serve as a list of items to be 
+# installed by pip when using 'pip install'
+pylint
+pytest
+click
+black
+pytest-cov
