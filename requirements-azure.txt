@@ -1,0 +1,6 @@
+# azure version requirements.txt
+pylint
+pytest
+click
+black
+pytest-cov
